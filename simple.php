@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Simple Calculator in Javascript</title>
+	<title>Simple Calculator in PHP</title>
 	<style type="text/css">
 		body {
 			margin: 0;
